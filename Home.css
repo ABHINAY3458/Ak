@@ -1,0 +1,10 @@
+.car{
+    overflow: hidden;
+  }
+  .car :hover{
+    transform: scale(101%);
+  }
+  .car img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }

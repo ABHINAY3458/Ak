@@ -1,0 +1,12 @@
+.About{
+    display: flex;justify-content: space-evenly;list-style:none;
+    padding-top: 30px;
+    padding-left: 10px;
+    
+  }
+  .Abouts{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRChwGu8fDpVZ3pIMnL_JNJOGbGkfUWy4wugg&usqp=CAU);
+     background-repeat: no-repeat, repeat;
+     background-size: 1400px;
+    height: 600px;
+  }

@@ -1,0 +1,17 @@
+.signupp{
+    background-image: url("https://img.freepik.com/free-vector/dark-hexagonal-background-with-gradient-color_79603-1409.jpg?w=360");
+    background-repeat: no-repeat;
+    height: 561px;
+  
+  background-size: 100%;
+  }
+  .signup{
+    
+    margin-left: 500px;
+    padding-top: 100px;
+  }
+  .sign{
+    color: #61dafb;
+    padding-left: 120px;
+  }
+  

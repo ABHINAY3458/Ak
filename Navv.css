@@ -1,0 +1,18 @@
+.Nav li{
+    display: inline-flex;
+    padding: 10px;
+  }
+  .Nav li a{
+    color: rgb(2, 19, 19);
+    padding: 5px;
+    text-decoration: none;
+  }
+  .Nav{
+    padding: 5px;
+    margin: 0;
+    background-color: skyblue;
+  }
+
+  .nav-right{
+    text-align: right;
+  }
